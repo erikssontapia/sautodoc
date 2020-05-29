@@ -1,0 +1,6 @@
+net\bluetab\sautodoc\SAutoDocMojo.class
+net\bluetab\sautodoc\DefComment.class
+net\bluetab\sautodoc\GenericComment.class
+net\bluetab\sautodoc\SAutoDoc.class
+net\bluetab\sautodoc\ClassComment.class
+net\bluetab\sautodoc\utils\FileUtils.class

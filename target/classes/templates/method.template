@@ -1,0 +1,5 @@
+  /** Method for ${methodname} with a given ${parameters}
+   *
+   *  @param ${paramname}
+   *  @return a new ${return} with a given ${parameters}
+   */
