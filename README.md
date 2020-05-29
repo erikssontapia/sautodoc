@@ -1,5 +1,6 @@
 # sautodoc
 Compile:
+
   mvn clean install
   
   mvn net.bluetab:SAutoDoc:0.1:sautodoc
